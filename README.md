@@ -1,8 +1,12 @@
 # 💫About Me :
 -Xin chào . Mình là Đinh Văn Hoàng Lân (hay gọi là dinhlan17122011)
+
 -Mình sinh năm 2011(tức năm nay học lớp 8)
+
 -Mình là 1 dev Web và Game . Cũng là học sinh giỏi của lớp
+
 -Mình học lập trình được 2 năm rồi. Và mình làm web được một thời gian dài rồi
+
 -Mong mọi người ủng hộ những dự án của mình nhé.
 
 ## 🌐Socials
