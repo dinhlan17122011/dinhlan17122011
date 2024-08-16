@@ -1,15 +1,16 @@
-- Chào . Mình là Đinh Văn Hoàng Lân (hay tên gọi khác là dinhlan1712)
-- Mình sinh năm 2011(Lớp 8 vào năm 2024)
-- Ở Thủ đô Hà Nội,Việt Nam
-- Mình là 1 dev Web và Game
-- Ngoài là dev ra thì mình là 1 trong 13 học sinh giỏi của lớp .Là học sinh giỏi Tin học , Sinh học , Hóa Học
-- Mình đã học lập trình được 2 năm rồi và mình cực hay về Lâp trình web Fortend + Backend
-- Những dự án mình làm được ở dười nhé.
-- Mong mọi người ủng hộ các dự án của mình và mình sẽ làm nhiều dự án dev trong tương lai nhé
-- Thank you for listening
-  
+# 💫About Me :
 
-<!---
-dinhlan17122011/dinhlan17122011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/dinhlan1712) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Đinh Hehe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dinhlan1712) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dinhlan1712) 
+
+# 💻Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=dinhlan17122011&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dinhlan17122011&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhlan17122011&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dinhlan17122011&icon=0&color=0)](https://visitcount.itsvg.in)
