@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tôi đang học và thực hành đồ án lập trình web<br>🤝 Tôi đang tìm kiếm sự góp ý <br>🌱 Tôi hiện đang học<br>💬 Nghĩ về tôi là học sinh lớp 8<br>⚡ Lập trình web là sở trường của tôi
+🔭 Tôi đang học và thực hành đồ án lập trình web<br>🤝 Tôi đang tìm kiếm sự góp ý <br>🌱 Tôi hiện đang học<br>💬 Nghĩ về tôi là học sinh lớp 9<br>⚡ Lập trình web là sở trường của tôi
 
 
 ## 🌐 Socials:
